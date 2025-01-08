@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 직접 해보는 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 저는 여러 도전을 통해 직접 느껴보고 싶은 개발자입니다.</li></li><li> flag 개발 동아리 support 총괄</li><li> support 백앤드 팀장 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 저는 여러 도전을 통해 직접 느껴보고 싶은 개발자입니다.</li></li><li> 교내 개발 동아리 Flag에서 진행중인 Support 총괄디렉터</li><li> Support 백앤드 팀장 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
