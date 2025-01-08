@@ -24,8 +24,8 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> 
+    <br>
     ![JaeSung's Github Stat](https://github-readme-stats.vercel.app/api?username=semolu99&show_icons=true&theme=chartreuse-dark)
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semolu99&show_icons=true&theme=chartreuse-dark)
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semolu99&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
