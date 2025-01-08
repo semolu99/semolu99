@@ -24,8 +24,8 @@
     </div>
     <div style="text-align: left;"> 
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-        <div align= "center"> 
+        <div style="text-align: left;>
             ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semolu99&show_icons=true&theme=radical)    
             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semolu99&layout=compact&theme=dracula)
-        </div> 
+        </div>
     </div>
